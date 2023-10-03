@@ -1,4 +1,6 @@
-# Odyssey Lift-off IV: Mutations
+# GraphQL Fullstack App
+
+### Developed in the Apollo Official Course: Odyssey Lift-off IV: Mutations
 
 Welcome to the companion app of Odyssey Lift-off IV! You can [find the course lessons and instructions on Odyssey](https://odyssey.apollographql.com/lift-off-part4), Apollo's learning platform.
 
@@ -8,25 +10,24 @@ You can [preview the completed demo app here](https://lift-off-client-demo.netli
 
 The course will walk you step by step on how to implement the features you see in the demo app. This codebase is the starting point of your journey!
 
-There are 3 main folders:
+There are two main folders:
 
-- `server`: The starting point of our GraphQL server.
-- `client`: The starting point of our React application.
-- `final`: The final stage of both the server and client folders, with all of the steps and code completed!
+- `server`: The code of our GraphQL server.
+- `client`: The code of our React application.
 
 To get started:
 
 1. Navigate to the `server` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+2. Run `npm install`.
+3. Run `npm start`.
 
 This will start the GraphQL API server.
 
 In another Terminal window,
 
 1. Navigate to the `client` folder.
-1. Run `npm install`.
-1. Run `npm start`.
+2. Run `npm install`.
+3. Run `npm start`.
 
 This will open up `localhost:3000` in your web browser.
 
